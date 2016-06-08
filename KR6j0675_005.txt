@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:37:27.049163
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:26
 #+TITLE: 楞嚴經義疏釋要鈔
 #+PROPERTY: CBETA_ID X11n0267
 #+PROPERTY: ID KR6j0675
